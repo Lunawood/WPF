@@ -1,0 +1,6 @@
+D:\bigdata_pcj\19.WPF\workspace\03.Calculator\CaculatorLibrary\bin\Debug\CaculatorLibrary.dll
+D:\bigdata_pcj\19.WPF\workspace\03.Calculator\CaculatorLibrary\bin\Debug\CaculatorLibrary.pdb
+D:\bigdata_pcj\19.WPF\workspace\03.Calculator\CaculatorLibrary\obj\Debug\CaculatorLibrary.csproj.AssemblyReference.cache
+D:\bigdata_pcj\19.WPF\workspace\03.Calculator\CaculatorLibrary\obj\Debug\CaculatorLibrary.csproj.CoreCompileInputs.cache
+D:\bigdata_pcj\19.WPF\workspace\03.Calculator\CaculatorLibrary\obj\Debug\CaculatorLibrary.dll
+D:\bigdata_pcj\19.WPF\workspace\03.Calculator\CaculatorLibrary\obj\Debug\CaculatorLibrary.pdb

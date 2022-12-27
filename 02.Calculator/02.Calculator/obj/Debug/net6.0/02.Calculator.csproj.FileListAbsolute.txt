@@ -1,0 +1,15 @@
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\bin\Debug\net6.0\02.Calculator.exe
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\bin\Debug\net6.0\02.Calculator.deps.json
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\bin\Debug\net6.0\02.Calculator.runtimeconfig.json
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\bin\Debug\net6.0\02.Calculator.dll
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\bin\Debug\net6.0\02.Calculator.pdb
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.csproj.AssemblyReference.cache
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.AssemblyInfoInputs.cache
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.AssemblyInfo.cs
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.csproj.CoreCompileInputs.cache
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.dll
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\refint\02.Calculator.dll
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.pdb
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\02.Calculator.genruntimeconfig.cache
+D:\bigdata_pcj\19.WPF\workspace\02.Calculator\02.Calculator\obj\Debug\net6.0\ref\02.Calculator.dll

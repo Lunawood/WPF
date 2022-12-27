@@ -1,0 +1,16 @@
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\bin\Debug\WpfBasicControlApp1.exe.config
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\bin\Debug\WpfBasicControlApp1.exe
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\bin\Debug\WpfBasicControlApp1.pdb
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.csproj.AssemblyReference.cache
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.csproj.SuggestedBindingRedirects.cache
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\MainWindow.g.cs
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\App.g.cs
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1_MarkupCompile.cache
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1_MarkupCompile.lref
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\MainWindow.baml
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.g.resources
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.Properties.Resources.resources
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.csproj.GenerateResource.cache
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.csproj.CoreCompileInputs.cache
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.exe
+D:\bigdata_pcj\19.WPF\workspace\04.MvvM\WpfBasicControlApp1\WpfBasicControlApp1\obj\Debug\WpfBasicControlApp1.pdb
