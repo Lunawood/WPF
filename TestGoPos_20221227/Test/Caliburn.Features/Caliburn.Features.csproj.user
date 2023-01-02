@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\ActionsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Activity\MessageActivityView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Activity\PhotoActivityView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BindingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CoroutineView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EventAggregationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Events\EventDestinationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Events\EventSourceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FeatureView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MenuView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ShellView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\ActionsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Activity\MessageActivityView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Activity\PhotoActivityView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BindingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CoroutineView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EventAggregationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Events\EventDestinationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Events\EventSourceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\FeatureView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MenuView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ShellView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

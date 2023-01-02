@@ -1,0 +1,32 @@
+﻿<Page x:Class="Caliburn.Features.Views.CoroutineView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Caliburn.Features.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Coroutine Sample View">
+
+    <StackPanel>
+        <!-- 상태에 따라 Loading Bar의 표시 형식이 달라집니다. -->
+        <ProgressBar x:Name="LoadingBar" Minimum="0" Maximum="100" IsIndeterminate="True" Height="20" Visibility="Hidden" />
+
+        <!-- 코루틴 시작할 수 있는 버튼과 이벤트 타켓 정의-->
+        <Button x:Name="Execute" Content="Execute Coroutine" Margin="40,20" />
+    </StackPanel>
+
+    <!-- Loading Bar의 Animation 처리 : Loading 상태일 때 Animation 동작함 -->
+    <VisualStateManager.VisualStateGroups>
+        <VisualStateGroup x:Name="LoadingStateGroup">
+            <VisualState x:Name="Loading">
+                <Storyboard>
+                    <ObjectAnimationUsingKeyFrames Storyboard.TargetName="LoadingBar" Storyboard.TargetProperty="Visibility">
+                        <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                    </ObjectAnimationUsingKeyFrames>
+                </Storyboard>
+            </VisualState>
+            <VisualState x:Name="LoadingComplete" />
+        </VisualStateGroup>
+    </VisualStateManager.VisualStateGroups>
+</Page>
