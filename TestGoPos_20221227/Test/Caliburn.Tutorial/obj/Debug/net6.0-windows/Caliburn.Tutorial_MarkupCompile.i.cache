@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\bigdata_pcj\19.WPF\util\TestGoPos_20221227\Test\Caliburn.Tutorial\obj\Debug\net6.0-windows\
+D:\bigdata_pcj\19.WPF\workspace\TestGoPos_20221227\Test\Caliburn.Tutorial\obj\Debug\net6.0-windows\
 Caliburn.Tutorial
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\bigdata_pcj\19.WPF\util\TestGoPos_20221227\Test\Caliburn.Tutorial\App.xaml
+D:\bigdata_pcj\19.WPF\workspace\TestGoPos_20221227\Test\Caliburn.Tutorial\App.xaml
 3944762156
 
 13603931660
 1981628336613
 Views\AboutView.xaml;Views\CategoryView.xaml;Views\ShellView.xaml;
 
-True
+False
 

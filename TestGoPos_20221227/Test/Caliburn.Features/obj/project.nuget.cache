@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jO8hBxyvupXDRhpDT2II3aehgQt53BgrX6N4s3E8fHoNmMkdzqFa8ofvP7gCOpfCl9fHZIxesvUyxCtC63yuuQ==",
+  "dgSpecHash": "Nssap6KqOM/bL3np7XHdVO9viragdl3AIan2eeooVjYLNhAAL4HU3whFveoahl7oiMFBgiG4FIW3ZfG4HMLc7A==",
   "success": true,
-  "projectFilePath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Features\\Caliburn.Features.csproj",
+  "projectFilePath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Features\\Caliburn.Features.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lunaw\\.nuget\\packages\\caliburn.micro\\4.0.212\\caliburn.micro.4.0.212.nupkg.sha512",
     "C:\\Users\\lunaw\\.nuget\\packages\\caliburn.micro.core\\4.0.212\\caliburn.micro.core.4.0.212.nupkg.sha512",

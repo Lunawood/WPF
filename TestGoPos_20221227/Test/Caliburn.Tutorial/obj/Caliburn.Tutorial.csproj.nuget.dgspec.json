@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj": {}
+    "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj": {}
   },
   "projects": {
-    "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj": {
+    "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj",
+        "projectUniqueName": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj",
         "projectName": "Caliburn.Tutorial",
-        "projectPath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj",
+        "projectPath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\Caliburn.Tutorial.csproj",
         "packagesPath": "C:\\Users\\lunaw\\.nuget\\packages\\",
-        "outputPath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\obj\\",
+        "outputPath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

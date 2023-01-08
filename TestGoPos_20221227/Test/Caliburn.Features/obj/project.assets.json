@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Features\\Caliburn.Features.csproj",
+      "projectUniqueName": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Features\\Caliburn.Features.csproj",
       "projectName": "Caliburn.Features",
-      "projectPath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Features\\Caliburn.Features.csproj",
+      "projectPath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Features\\Caliburn.Features.csproj",
       "packagesPath": "C:\\Users\\lunaw\\.nuget\\packages\\",
-      "outputPath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\Caliburn.Features\\obj\\",
+      "outputPath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\Caliburn.Features\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

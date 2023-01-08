@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\TestCalibrunMicro\\TestCalibrunMicro.csproj",
+      "projectUniqueName": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\TestCalibrunMicro\\TestCalibrunMicro.csproj",
       "projectName": "TestCalibrunMicro",
-      "projectPath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\TestCalibrunMicro\\TestCalibrunMicro.csproj",
+      "projectPath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\TestCalibrunMicro\\TestCalibrunMicro.csproj",
       "packagesPath": "C:\\Users\\lunaw\\.nuget\\packages\\",
-      "outputPath": "D:\\bigdata_pcj\\19.WPF\\util\\TestGoPos_20221227\\Test\\TestCalibrunMicro\\obj\\",
+      "outputPath": "D:\\bigdata_pcj\\19.WPF\\workspace\\TestGoPos_20221227\\Test\\TestCalibrunMicro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

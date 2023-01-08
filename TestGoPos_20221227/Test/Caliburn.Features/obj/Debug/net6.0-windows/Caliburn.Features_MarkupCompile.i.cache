@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\bigdata_pcj\19.WPF\util\TestGoPos_20221227\Test\Caliburn.Features\obj\Debug\net6.0-windows\
+D:\bigdata_pcj\19.WPF\workspace\TestGoPos_20221227\Test\Caliburn.Features\obj\Debug\net6.0-windows\
 Caliburn.Features
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\bigdata_pcj\19.WPF\util\TestGoPos_20221227\Test\Caliburn.Features\App.xaml
+D:\bigdata_pcj\19.WPF\workspace\TestGoPos_20221227\Test\Caliburn.Features\App.xaml
 111959886396
 
 351565074834
 1981628336613
 Views\ActionsView.xaml;Views\Activity\MessageActivityView.xaml;Views\Activity\PhotoActivityView.xaml;Views\BindingsView.xaml;Views\CoroutineView.xaml;Views\EventAggregationView.xaml;Views\Events\EventDestinationView.xaml;Views\Events\EventSourceView.xaml;Views\FeatureView.xaml;Views\MenuView.xaml;Views\ShellView.xaml;
 
-True
+False
 
